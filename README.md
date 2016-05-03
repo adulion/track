@@ -48,7 +48,7 @@ Track defines events within the special `Event` objects. An `Event` object can c
 - the time of the event,
 - requested URL,
 - product category,
-- pruduct name,
+- product name,
 - customer source,
 - and many other defined by you.
 
